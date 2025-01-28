@@ -35,7 +35,6 @@
                                 <button data-word="15" class="btn btn-dark px15 ms20 activeForm">15 Words</button>
                                 <button data-word="18" class="btn btn-dark px15 ms20 activeForm">18 Words</button>
                                 <button data-word="20" class="btn btn-dark px15 ms20 activeForm">20 Words</button>
-                                <button data-word="21" class="btn btn-dark px15 ms20 activeForm">21 Words</button>
                                 <button data-word="24" class="btn btn-dark px15 ms20 activeForm">24 Words</button>
                                 <button data-word="33" class="btn btn-dark px15 ms20 activeForm">33 Words</button>
                             </div>
